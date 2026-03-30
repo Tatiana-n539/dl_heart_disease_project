@@ -210,3 +210,4 @@ __marimo__/
 Нейронные сети/Ignored
 Ignored
 .DS_Store
+__pycache__
