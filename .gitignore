@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Custom
+Нейронные сети/Ignored
+Ignored
+.DS_Store
